@@ -8,7 +8,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=2, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=3, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -116,7 +116,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <iframe width="420" height="315"
           src="https://www.youtube.com/watch?v=d5BVEVJWf0M">
           </iframe>
-           for Mit app inventor code click <a href="http://ai2.appinventor.mit.edu/#5988050142625792">here</a>. the app is a level to identify if your phone is flat againsts something.
+           for Mit app inventor code click <a href="http://ai2.appinventor.mit.edu/#5988050142625792">HERE</a>. the app is a level to identify if your phone is flat againsts something.
           <hr>
         </div>
         <div class="w3-container">
