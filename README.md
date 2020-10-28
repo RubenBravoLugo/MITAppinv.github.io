@@ -69,7 +69,7 @@ body {margin:1;}
 <body>
 
 <div class="navbar">
-  <a href="rubenbravolugo,github.io"> home</a>
+  <a href="rubenbravolugo.github.io"> HOME </a>
   <a href="#news"> </a>
   <a href="#contact"> </a>
 </div>
