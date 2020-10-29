@@ -41,7 +41,7 @@ body {margin:1;}
   background-color: #333;
   position: fixed;
   top: 0;
-  width: 36%;
+  width: 38%;
 }
 
 .navbar a {
