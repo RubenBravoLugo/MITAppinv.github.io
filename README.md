@@ -41,7 +41,7 @@ body {margin:1;}
   background-color: #333;
   position: fixed;
   top: 0;
-  width: 40%;
+  width: 41.4%;
 }
 
 .navbar a {
@@ -126,9 +126,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <!-- Right Column -->
     <div class="w3-twothird">
     
-      <div class="w3-container w3-card w3-white w3-margin-bottom" style="width: 950px;">
+      <div class="w3-container w3-card w3-white w3-margin-bottom" style="width: 975px;">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Rubens Portfolio</h2>
-        <div class="w3-container" style="width: 950px;">
+        <div class="w3-container" style="width: 975px;">
           
 
           <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Mit app inventor</span></h6>
